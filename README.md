@@ -6,7 +6,7 @@ In this project reference tutorial we will detailed on creating GUI with Gstream
 Though similar steps works on other MPSoC Boards.
 
 In this repo we will have "Gstreamer based GUI Development" with following reference topics:
-### 1. Creating Embedded Linux project with PetaLinux
+### 1. [Creating Embedded Linux project with PetaLinux](https://github.com/LogicTronix/Gstreamer-Petalinux-Application-Development/tree/master/Creating-Embedded-Linux-project-with-PetaLinux)
 ### 2. Device Tree in Xilinx Embedded Linux
 ### 3. [Creating GUI with Gstreamer Pipeline for MPSoC on Petalinux development flow](https://github.com/LogicTronix/Gstreamer-Petalinux-Application-Development/tree/master/Create-Gstreamer-GUI-for-Edge-detection)
 
